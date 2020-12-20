@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="www.nustm.cn" id="5c8b6d47-310d-45e0-9d52-46397bc25e73" port="11024" customName="Text mining lab_outside" nameFormat="CUSTOM" username="sjliu">
+        <option name="customName" value="Text mining lab_outside" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

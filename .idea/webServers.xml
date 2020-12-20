@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1caf1b12-2540-4977-81a4-720046d58109" name="Text mining lab_outside">
+        <fileTransfer accessType="SFTP" host="www.nustm.cn" port="11024" sshConfigId="5c8b6d47-310d-45e0-9d52-46397bc25e73" sshConfig="Text mining lab_outside">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
